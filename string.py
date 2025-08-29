@@ -8,5 +8,7 @@ full_name = first_name + " " + last_name
 print(f"Full name: {full_name}")
 print("Full name:",full_name)
 print("Full name: "+full_name)
-print("Full name {}".format(full_name))
+print("Full name: {}".format(full_name))
+
+
 
